@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">AKBLatihan2BloodShare</string>
+
+    <string-array name="blode_type">
+        <item>Blood Type</item>
+        <item>A</item>
+        <item>B</item>
+        <item>O</item>
+        <item>AB</item>
+    </string-array>
+
+    <string-array name="reshus">
+        <item>Reshus</item>
+        <item>Positif (+)</item>
+        <item>Negatif (-)</item>
+    </string-array>
+
+    <string-array name="job">
+        <item>Job</item>
+        <item>Teacher</item>
+        <item>Police</item>
+        <item>Army</item>
+        <item>Actris</item>
+        <item>Entrepreneur</item>
+    </string-array>
+
+</resources>
